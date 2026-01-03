@@ -1,4 +1,3 @@
-# Web-Development-Basics
 # Web Development Internship – Task 1
 
 ## Student Name
